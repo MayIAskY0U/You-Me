@@ -1,0 +1,41 @@
+
+body{
+background-color:antiquewhite;
+
+}
+
+h1{
+    text-align: center;
+    margin-top: 80px;
+font-family:cursive;
+color: brown;
+}
+.yesno{
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    text-decoration: none;
+}
+.yes{
+color: rgb(255, 255, 255);
+font-size: 30px;
+width: 70px;
+height: 40px;
+background-color: rgb(10, 242, 45);
+box-shadow: 3px 3px white;
+border-radius: 5px;
+text-decoration: none;
+}
+
+.no{
+    color: rgb(255, 255, 255);
+font-size: 30px;
+width: 70px;
+height: 40px;
+background-color: rgb(203, 9, 9);
+box-shadow: 3px 3px white;
+border-radius: 5px;
+text-decoration: none;
+}

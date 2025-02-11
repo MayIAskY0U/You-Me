@@ -1,0 +1,34 @@
+
+    body{
+        background-color:antiquewhite;
+        
+        }
+        
+        h1{
+            text-align: center;
+            margin-top: 80px;
+        font-family:cursive;
+        color: brown;
+        }
+        .yesno{
+            text-align: center;
+            display: flex;
+            justify-content: space-evenly;
+            flex-direction: row;
+            text-decoration: none;
+        }
+        .yes{
+        color: rgb(255, 255, 255);
+        font-size: 150px;
+        width: 2200px;
+        height: 1500px;
+        background-color: rgb(10, 242, 45);
+        border-radius: 5px;
+        text-decoration: none;
+        text-align: center;
+        margin-left: -8px;
+        margin-top: -20px;
+        margin-right: -8px;
+        }
+        
+        
